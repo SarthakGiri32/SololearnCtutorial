@@ -6,4 +6,5 @@ set(CMAKE_C_STANDARD 11)
 add_executable(untitled IntroductionToC/main.c
         IntroductionToC/FormatSpecifiers.c
         IntroductionToC/Variables.c
-        IntroductionToC/DataTypes.c)
+        IntroductionToC/DataTypes.c
+        IntroductionToC/Percentage.c)
