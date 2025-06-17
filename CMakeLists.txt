@@ -9,4 +9,5 @@ add_executable(untitled IntroductionToC/BasicConcepts/main.c
         IntroductionToC/BasicConcepts/DataTypes.c
         IntroductionToC/BasicConcepts/Percentage.c
         IntroductionToC/BasicConcepts/Ticketing.c
-        IntroductionToC/BasicConcepts/UserInput.c)
+        IntroductionToC/ConditionalsAndLoops/UserInput.c
+        IntroductionToC/ConditionalsAndLoops/BodyMassIndex.c)
