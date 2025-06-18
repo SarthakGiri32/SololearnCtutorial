@@ -8,8 +8,8 @@ int main() {
     char input[100];
     fgets(input, sizeof(input), stdin);
     char *endptr;
-    int startPage = (int) strtol(input, &endptr, 10);
-    int endPage = (int) strtol(endptr, NULL, 10);
+    const int startPage = (int) strtol(input, &endptr, 10);
+    const int endPage = (int) strtol(endptr, NULL, 10);
 
     for (int i = startPage; i < endPage; i++) {
         printf("%d ", i);
