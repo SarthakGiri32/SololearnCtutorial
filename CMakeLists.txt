@@ -14,4 +14,5 @@ add_executable(untitled IntroductionToC/BasicConcepts/main.c
         IntroductionToC/ConditionalsAndLoops/GameControls.c
         IntroductionToC/ConditionalsAndLoops/OilChange.c
         IntroductionToC/ConditionalsAndLoops/DrawingStars.c
-        IntroductionToC/ConditionalsAndLoops/Pagination.c)
+        IntroductionToC/ConditionalsAndLoops/Pagination.c
+        IntroductionToC/ArraysAndStrings/AverageTemperatures.c)
