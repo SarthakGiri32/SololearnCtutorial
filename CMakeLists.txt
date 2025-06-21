@@ -16,4 +16,5 @@ add_executable(untitled IntroductionToC/BasicConcepts/main.c
         IntroductionToC/ConditionalsAndLoops/DrawingStars.c
         IntroductionToC/ConditionalsAndLoops/Pagination.c
         IntroductionToC/ArraysAndStrings/AverageTemperatures.c
-        IntroductionToC/ArraysAndStrings/GameResults.c)
+        IntroductionToC/ArraysAndStrings/GameResults.c
+        IntroductionToC/ArraysAndStrings/WhichLetter.c)
