@@ -18,4 +18,5 @@ add_executable(untitled IntroductionToC/BasicConcepts/main.c
         IntroductionToC/ArraysAndStrings/AverageTemperatures.c
         IntroductionToC/ArraysAndStrings/GameResults.c
         IntroductionToC/ArraysAndStrings/WhichLetter.c
-        IntroductionToC/ArraysAndStrings/BaggageFees.c)
+        IntroductionToC/ArraysAndStrings/BaggageFees.c
+        IntroductionToC/ArraysAndStrings/BaggageFeeCalculatorV2.c)
