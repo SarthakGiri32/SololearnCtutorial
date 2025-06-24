@@ -20,4 +20,5 @@ add_executable(untitled IntroductionToC/BasicConcepts/main.c
         IntroductionToC/ArraysAndStrings/WhichLetter.c
         IntroductionToC/ArraysAndStrings/BaggageFees.c
         IntroductionToC/ArraysAndStrings/BaggageFeeCalculatorV2.c
-        IntroductionToC/ArraysAndStrings/BaggageFeesCalculatorWithReturn.c)
+        IntroductionToC/ArraysAndStrings/BaggageFeesCalculatorWithReturn.c
+        IntroductionToC/ArraysAndStrings/SwappingValues.c)
